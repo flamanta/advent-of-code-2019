@@ -13,3 +13,6 @@ My progress on Advent of Code 2019.
 - [x] Day 3: Crossed Wires
   - [x] Part 1
   - [x] Part 2
+- [ ] Day 4: Secure Container
+  - [x] Part 1
+  - [ ] Part 2
