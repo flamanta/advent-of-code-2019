@@ -10,6 +10,6 @@ My progress on Advent of Code 2019.
 - [x] Day 2: 1202 Program Alarm
   - [x] Part 1
   - [x] Part 2
-- [ ] Day 3: Crossed Wires
+- [x] Day 3: Crossed Wires
   - [x] Part 1
-  - [ ] Part 2
+  - [x] Part 2
