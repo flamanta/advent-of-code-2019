@@ -1,6 +1,6 @@
 # Advent of Code 2019
 
-My progress on Advent of Code 2019.
+My progress on Advent of Code 2019. On hiatus until 20 Dec.
 
 ## Puzzles
 
